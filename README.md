@@ -154,11 +154,14 @@
 | Получение профиля | 1 909| 3 274| 7.3| 12.6|7.3 |12.6|25.72|
 
 ## Логиеская схема:
-![IMAGE 2021-12-11 22:42:22](https://user-images.githubusercontent.com/64102363/145689581-9b3efa15-a884-4b1c-8e62-7db6d4bac39c.jpg)
+<img width="521" alt="Снимок экрана 2021-12-11 в 23 10 07" src="https://user-images.githubusercontent.com/64102363/145690223-dbf8eb4d-bd49-48c4-9714-6f3331a0d1fc.png">
 
 ## Физическая схема:
+<img width="599" alt="Снимок экрана 2021-12-11 в 23 09 44" src="https://user-images.githubusercontent.com/64102363/145690217-e0303d60-49f1-4f47-9c21-49eb1ddfd997.png">
 
-<img width="478" alt="Снимок экрана 2021-12-11 в 22 58 31" src="https://user-images.githubusercontent.com/64102363/145689925-2882f2d4-434e-4b96-bd05-211222e40357.png">
+
+
+
 
 ## Источники:
 1. [https://vc.ru/social/195967-auditoriya-telegram-prevysila-500-mln-polzovateley-v-mesyac-eto-na-100-mln-bolshe-chem-v-aprele-2020-goda](https://vc.ru/social/195967-auditoriya-telegram-prevysila-500-mln-polzovateley-v-mesyac-eto-na-100-mln-bolshe-chem-v-aprele-2020-goda)
